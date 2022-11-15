@@ -1,0 +1,17 @@
+.terms{
+    font-size: 14px;
+    margin-top: 50px;
+    margin-left: 200px;
+    color: #800080;
+    height: 150px;
+ 
+}
+.terms>p{
+    padding-bottom: 10px;
+}
+.terms>button{
+    font-size: 14px;
+    border: none;
+    color: #800080;
+    background-color: white;
+}

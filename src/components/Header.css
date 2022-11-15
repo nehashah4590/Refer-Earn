@@ -1,0 +1,12 @@
+.header{
+    
+    height: 50px;
+    display: flex;
+    align-items: center;
+   
+}
+
+.header>p{
+    margin-left:170px ;
+    font-size: 12px;
+}
